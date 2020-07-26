@@ -12,4 +12,4 @@
 ### 🔥  Technologies I'm currently using
 `HTML5`, `Sass`, `JavaScript`, `NPM Scripts`, `ESLint`, `Prettier`
 
-### Scroll down to see projects I'm currently working on 🎉! 
+#### 👇 Scroll down to see projects I'm currently working on! 
