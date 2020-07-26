@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/ann-dev/ann-dev/blob/master/person-r.png?raw=true" style="width: 300px">
-
 ## Hi there 👋
 [<img src="https://img.shields.io/badge/codepen-%2312100E.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="codepen badge">](https://codepen.io/merkund)
 
