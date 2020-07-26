@@ -11,15 +11,10 @@ Currently I'm learning Front end-related technologies but I don't mind branching
 [19/10 - 20/09] Attending PHP & JS Bootcamp
 
 ### 🌱  Currently learning
-- ReactJs
-- Symfony
+ReactJs, Symfony
 
 ### 🔥  Technologies I'm currently using
-- HTML5
-- Sass
-- JavaScript
-- NPM Scripts
+HTML5, Sass, JavaScript, NPM Scripts
 
 ### 🚧  Used / worked with before
-- Wordpress
-- Gulp
+Wordpress, Gulp
