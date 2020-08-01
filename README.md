@@ -14,6 +14,8 @@ I'm also open to collaboration on any new cool projects & ideas ☺️
 <p>
   <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/>
   <img src=https://devicons.github.io/devicon/devicon.git/icons/symfony/symfony-original-wordmark.svg alt=symfony width="40" height="40"/>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg alt=webpack width="30" height="40"/>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg alt=yarn width="40" height="40"/>
 </p>
 
 #### ✍️ Technologies I'm currently using
