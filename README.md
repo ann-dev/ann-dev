@@ -8,22 +8,21 @@ I'm also open to collaboration on any new cool projects & ideas ☺️
 
 #### 🚀 Status
 * [19/10 - 20/09] Attending PHP & JS Bootcamp
+* [20/05] Completed Advanced JavaScript Path: [Certificate](https://eduweb.pl/profil/97484/certyfikaty/7de4-0676-224e-4980/zaawansowany-javascript)
 * [20/05] Completed Eduweb PHP Path: [Certificate](https://eduweb.pl/profil/97484/certyfikaty/efb8-e5c6-b745-41a7/php?utm_content=reminder&utm_campaign=website&utm_source=Newsletter%20eduweb.pl&utm_term=allusers&utm_medium=email)
 
 #### 🌱  Learning new stuff
 <p>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/>
   <img src=https://devicons.github.io/devicon/devicon.git/icons/symfony/symfony-original-wordmark.svg alt=symfony width="40" height="40"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg alt=webpack width="30" height="40"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg alt=yarn width="40" height="40"/>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg alt=typescript width="40" height="40"/>
 </p>
 
 #### ✍️ Technologies I'm currently using
 <p>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html width="40" height="40"/>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/>
   <img src=https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="40" height="40"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=js width="40" height="40"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg alt=npm width="40" height="40"/>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg alt=yarn width="40" height="40"/>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg alt=webpack width="40" height="40"/>
 </p>
 
 ### 👇 Scroll down to see projects I'm working on! 
