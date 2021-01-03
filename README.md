@@ -12,19 +12,15 @@ I'm also open to collaboration on any new cool projects & ideas ☺️
 * [19/02] freeCodeCamp - Responsive Web Design Certification: [Certificate](https://www.freecodecamp.org/certification/merkund/responsive-web-design)
 
 #### 🌱  Learning in 2021
-<p>
   * React (mastering fundamentals)
   * Typescript
   * REST API
   * GraphQl 
   * Docker
-</p>
 
 #### ✍️ Technologies I'm currently using
-<p>
   * GatsbyJs
   * React (create-react-app)
   * styled components
-</p>
 
 ### 👇 Scroll down to see projects I'm working on! 
