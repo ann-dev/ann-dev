@@ -13,14 +13,15 @@ I'm also open to collaboration on any new cool projects & ideas ☺️
 
 #### 🌱  Learning in 2021
   * React (mastering fundamentals)
-  * Typescript
   * REST API
+  * Typescript
   * GraphQl 
   * Docker
 
 #### ✍️ Technologies I'm currently using
+  * Next.js
   * GatsbyJs
-  * React (create-react-app)
+  * Tailwind Css
   * styled components
 
 ### 👇 Scroll down to see projects I'm working on! 
