@@ -2,8 +2,8 @@
 [<img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg height="35" width="35" alt="codepen icon">](https://codepen.io/merkund)
 [<img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg height="35" width="35" alt="repl-it icon">](https://repl.it/@anndev)
 
-### I'm a Frontend Developer looking for new job opportunities (previously a Graphic Designer)!
-Currently I'm at learning stage, hopefully able to branch my skills in nearest future. <br />
+### I'm a React/Frontend Developer (previously a Graphic Designer)!
+Currently I'm at learning stage (mostly React-related stuff), hopefully able to branch my skills in nearest future. <br />
 I'm also open to collaboration on any new cool projects & ideas ☺️
 
 #### 🏅 My Certificates
@@ -11,16 +11,15 @@ I'm also open to collaboration on any new cool projects & ideas ☺️
 * [20/05] Eduweb - PHP Path: [Certificate](https://eduweb.pl/profil/97484/certyfikaty/efb8-e5c6-b745-41a7/php?utm_content=reminder&utm_campaign=website&utm_source=Newsletter%20eduweb.pl&utm_term=allusers&utm_medium=email)
 * [19/02] freeCodeCamp - Responsive Web Design Certification: [Certificate](https://www.freecodecamp.org/certification/merkund/responsive-web-design)
 
-#### 🌱  Learning in 2021
-  * React (mastering fundamentals)
-  * REST API
-  * Typescript
+#### 🌱  Learning in 2022
+  * React (advanced features, v18!) + TypeScript
   * GraphQl 
-  * Docker
+  * Websockets
+  * Working with backend (going back to PHP and DevOps in general)
 
 #### ✍️ Technologies I'm currently using
-  * Next.js
-  * GatsbyJs
+  * React.js
+  * REST API
   * Tailwind Css
   * styled components
 
