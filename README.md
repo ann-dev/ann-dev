@@ -3,7 +3,7 @@
 [<img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg height="35" width="35" alt="repl-it icon">](https://repl.it/@anndev)
 
 ### I'm a React/Frontend Developer (previously a Graphic Designer)!
-Currently I'm at learning stage (mostly React-related stuff), hopefully able to branch my skills in nearest future. <br />
+Currently working with React + Redux, hopefully able to branch my skills in nearest future. <br />
 I'm also open to collaboration on any new cool projects & ideas ☺️
 
 #### 🏅 My Certificates
@@ -15,12 +15,11 @@ I'm also open to collaboration on any new cool projects & ideas ☺️
   * React (advanced features, v18!) + TypeScript
   * GraphQl 
   * Websockets
-  * Working with backend (going back to PHP and DevOps in general)
+  * Working with backend
 
 #### ✍️ Technologies I'm currently using
-  * React.js
-  * REST API
-  * Tailwind Css
+  * React.js + Redux
+  * Jest, React Testing Library
   * styled components
 
 ### 👇 Scroll down to see projects I'm working on! 
